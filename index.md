@@ -1,13 +1,11 @@
 # Your Team
 ## Veronique Mulholland
-Mulholland
-
-🎓 **BEng Mining** - Queens University **:mortar_board: BSc Data Science** -  University of British Columbia
+🎓 **BEng Mining** - Queens University 🎓 **BSc Data Science** -  University of British Columbia
 
 With over 12 years of experience in customer success management, Veronique helps companies through digital transformations every step of the way. From leading global enterprise systems integrations to championing R&D initiatives, her background in the mining industry has made her a master in human-centred solution design and adoption.
 
 ## Johannes Harmse
-**:mortar_board: BEng Industrial** - University of Stellenbosch **:mortar_board: BSc Data Science** -  University of British Columbia
+🎓 **BEng Industrial** - University of Stellenbosch 🎓 **BSc Data Science** -  University of British Columbia
 
 Johannes is a leader in data-driven process improvement. Over the last 11 years, he has worked across various complex sectors, such as public healthcare and government asset management, which has provided him an invaluable knack for understanding complex operations, and how to best improve them using the power of data.
 
