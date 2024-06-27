@@ -1,6 +1,8 @@
 # Your Team
 ## Veronique Mulholland
-:mortar_board: **BEng Mining** - Queens University **:mortar_board: BSc Data Science** -  University of British Columbia
+Mulholland
+
+🎓 **BEng Mining** - Queens University **:mortar_board: BSc Data Science** -  University of British Columbia
 
 With over 12 years of experience in customer success management, Veronique helps companies through digital transformations every step of the way. From leading global enterprise systems integrations to championing R&D initiatives, her background in the mining industry has made her a master in human-centred solution design and adoption.
 
