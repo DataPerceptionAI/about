@@ -1,11 +1,11 @@
 # Your Team
 ## Veronique Mulholland
-🎓 **BEng Mining** - Queen's University 🎓 **BSc Data Science** -  University of British Columbia
+🎓 **BEng Mining** - Queen's University 🎓 **MSc Data Science** -  University of British Columbia
 
 With over 12 years of experience in customer success management, Veronique helps companies through digital transformations every step of the way. From leading global enterprise systems integrations to championing R&D initiatives, her background in the mining industry has made her a master in human-centred solution design and adoption.
 
 ## Johannes Harmse
-🎓 **BEng Industrial** - University of Stellenbosch 🎓 **BSc Data Science** -  University of British Columbia
+🎓 **BEng Industrial** - University of Stellenbosch 🎓 **MSc Data Science** -  University of British Columbia
 
 Johannes is a leader in data-driven process improvement. Over the last 11 years, he has worked across various complex sectors, such as public healthcare and government asset management, which has provided him an invaluable knack for understanding complex operations, and how to best improve them using the power of data.
 
@@ -23,7 +23,7 @@ Data-centric process optimization comes in all shapes and sizes.
 Efficiency gains can be made within any industry. Our partners are in manufacturing, healthcare, government, retail, mining, and education, just to name a few.
 
 ## Operations
-Our focus is on internal operations that utilizes, or has the potential to utilize data. We build custom solutions that allows you to take full advantage of your data. Tools we have developed, include:
+Our focus is on internal operations that utilize, or have the potential to use data. We build custom solutions that allow you to take full advantage of your data. Tools we have developed, include:
 * BI Dashboards
 * Machine learning models
 * Data entry apps
@@ -38,4 +38,4 @@ Our focus is on internal operations that utilizes, or has the potential to utili
 Because complexity is often correlated with the size of operations, we typically partner with larger organizations. However, we have found complexity to exist across all company sizes, so we have partnerships with smaller companies too where a reasonable amount of optimization potential exists.
 
 ## Location
-We greatly value spending time at client sites to get to know complex operations. For this reason, most of our partners are North American, since we are a Canadian company. We have satelite offices that assist in serving the rest of our global partners mainly across Europe and Africa.
+We greatly value spending time at client sites to get to know complex operations. For this reason, most of our partners are North American, since we are a Canadian company. We have satellite offices that assist in serving the rest of our global partners mainly across Europe and Africa.
